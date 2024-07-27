@@ -16,8 +16,7 @@ Python, Pandas, Numpy, Matplotlib,Seaborn, Jupyter Notebook<br>
 Gender Representation - Analysis of the proportion of male and female laureates over time.<br>
 Country Dominance - Exploration of which countries have the most Nobel Prize winners.<br>
 Category Trends - Insight into which categories have been awarded most frequently.<br>
-First Female Winner<br>
-Top three male winner<br>
+Top Winner: Male and female<br>
 and so much more
 
 Feel free to download dataset and try your hands on this project. See the attached file for insights <br>
