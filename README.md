@@ -1,5 +1,5 @@
 # Analyze-the-History-of-Nobel-Prize-winners-using-Python🏆
-Welcome to Visualizing the History of Nobel Prize Winners project! This project dives into the rich history of Nobel Prize laureates from 1901 to the present, exploring trends, demographics, and notable insights using Python.
+Welcome to visualizing the History of Nobel Prize Winners project! This project dives into the rich history of Nobel Prize laureates from 1901 to the present, exploring trends, demographics, and notable insights using Python.
 
 ### 📚 Project Overview
 Project objectives include:
@@ -10,11 +10,7 @@ Visualize key trends: Create visualizations to highlight significant patterns an
 Uncover insights: Analyze the data to answer interesting questions about laureates, their countries of origin, and more<br>
 
 ### 🛠️ Tools and Libraries
-Python<br>
-Pandas<br>
-Numpy<br>
-Matplotlib & Seaborn: For creating visualizations and charts<br>
-Jupyter Notebook<br>
+Python, Pandas, Numpy, Matplotlib,Seaborn, Jupyter Notebook<br>
 
 ### 📊 Key Insights and Findings
 Gender Representation - Analysis of the proportion of male and female laureates over time.<br>
