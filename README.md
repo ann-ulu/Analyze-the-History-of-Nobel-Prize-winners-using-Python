@@ -23,4 +23,4 @@ First Female Winner<br>
 Top three male winner<br>
 and so much more
 
-Feel free to download daatset and try your hands on this project. See the attached file for insights
+Feel free to download dataset and try your hands on this project. See the attached file for insights
