@@ -19,5 +19,5 @@ Python, Pandas, Numpy, Matplotlib,Seaborn, Jupyter Notebook<br>
 **Top Winners** - Male and female<br>
 and so much more
 
-Feel free to download dataset and try your hands on this project. See the attached file for insights <br>
-Special thanks to Datacamp for putting this project together!
+Feel free to download dataset and try your hands on this project. See the attached file for insights
+
